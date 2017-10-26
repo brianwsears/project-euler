@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projectEuler.iml" filepath="$PROJECT_DIR$/.idea/modules/projectEuler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projectEuler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/projectEuler_main.iml" group="projectEuler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projectEuler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/projectEuler_test.iml" group="projectEuler" />
+    </modules>
+  </component>
+</project>

@@ -10,12 +10,12 @@ class UtilsSpec extends Specification {
 
     def 'isNumberEven will return true for even numbers'() {
         expect:
-            utils.isNumberEven(2 ) == true;
+            utils.isNumberEven(2 ) == true
     }
 
     def 'isNumberEven will return false for odd numbers'() {
         expect:
-            utils.isNumberEven(3) == false;
+            utils.isNumberEven(3) == false
     }
 
     def 'isMultipleOfThree returns true if value is a multiple of 3'() {

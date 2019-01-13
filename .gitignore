@@ -1,0 +1,15 @@
+### Main ###
+build/
+out/
+lib/
+web/
+
+### Gradle ###
+.gradle
+/gradlew
+gradle/
+gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
